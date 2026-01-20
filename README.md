@@ -109,6 +109,4 @@
 **Thanks for visiting my profile!** ✨  
 *Feel free to reach out if you want to discuss game development projects or collaboration*
 
-🚀 *Let's create amazing games together!*
-
 </div>

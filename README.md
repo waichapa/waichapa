@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello! I'm Danil (Waichapa)
+# Hello! I'm Waichapa!
 
 ### C# Developer | Game & App Developer | Tech Enthusiast
 

@@ -1,22 +1,21 @@
 <div align="center">
 
-# Hello! I'm Waichapa!
+# Waichapa
 
-### C# Developer | Game & App Developer | Tech Enthusiast
+### C# Developer | Game & App Development
 
-🚀 Passionate about creating cool games and applications for PC and Android  
-💡 Enthusiastic about development, constantly learning new technologies and approaches
+Specialization in desktop, mobile and browser-based applications.
 
 </div>
 
 ---
 
-## 🛠 **My Tech Stack**
+## Technical Stack
 
-### **Programming Language:**
+**Primary language**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### **Core Technologies:**
+**Core technologies**  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -24,89 +23,73 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Game Development:**
+**Target platforms**  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![Yandex Games SDK](https://img.shields.io/badge/Yandex_Games_SDK-FFCC00?style=for-the-badge&logo=yandex&logoColor=000)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### **Platforms:**
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-### **Additional Skills:**
+**Additional technologies**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ---
 
-## 🌍 **Languages I Speak**
+## Language Proficiency
 
 | Language | Level | Certification |
 |----------|-------|---------------|
-| **Russian** | Native | - |
-| **English** | B1 (Intermediate) | - |
-| **한국어 (Korean)** | A2 (Elementary) | TOPIK 1 Level 2 (2급) |
-
-*Currently improving English and Korean for international collaboration*
+| Russian | Native | — |
+| English | B1 (Intermediate) | — |
+| Korean | A2 (Elementary) | TOPIK 1 Level 2 |
 
 ---
 
-## 📊 **My Leetcode Activity**
+## Game Development
 
-<div align="center">
+**Engine & platforms**  
+- Unity (2D / 3D)
+- WebGL deployment
+- Android builds
+- Yandex.Games SDK integration
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/waichapa?theme=dark&font=Noto%20Sans%20KR)
-
-</div>
-
----
-
-## 🎮 **Game Development Expertise**
-
-### **Platforms & Technologies:**
-- 🎯 **Unity Engine** - 2D/3D game development
-- 🌐 **WebGL** - Browser-based game deployment
-- 📱 **Mobile** - Android game development and optimization
-- 🕸️ **Yandex.Games** - SDK integration for Yandex Games platform
-- 🎪 **Browser Games** - HTML5 and WebGL game development
-
-### **Key Skills:**
-- Game mechanics implementation
-- Cross-platform development
-- Performance optimization for WebGL
-- Yandex Games SDK integration (authentication, leaderboards, ads)
-- Monetization strategies for browser games
+**Areas of work**  
+- Core mechanics implementation
+- Cross-platform builds
+- WebGL performance optimization
+- SDK integration (authentication, leaderboards, ads)
 
 ---
 
-## 🎯 **Current Goals & Learning**
+## Application Development
 
-- 🎮 **Advanced Unity Development** - building complete game projects
-- 🏆 **LeetCode Problem Solving** - improving algorithmic skills
-- 🌐 **WebGL Optimization** - enhancing browser game performance
-- 🎪 **Yandex Games Ecosystem** - mastering SDK features and integration
+**Desktop & mobile applications**  
+- Windows desktop applications (.NET / WinForms / WPF)
+- Cross-platform solutions
+- Android apps
+
+**Remote server automation**  
+- C# + WPF application for managing Linux servers via SSH
+- Automated Docker container deployment on Ubuntu VPS
 
 ---
 
-## 📫 **How to Reach Me**
+## Current Focus
+
+- Completing full-cycle Unity projects
+- Yandex Games SDK tooling
+- Cross-platform application development
+
+---
+
+## Contact
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waichapaofficial@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/waichapa/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waichapa)
 
 </div>
 
 ---
-
-<div align="center">
-
----
-
-**Thanks for visiting my profile!** ✨  
-*Feel free to reach out if you want to discuss game development projects or collaboration*
-
-</div>

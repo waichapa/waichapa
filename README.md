@@ -42,7 +42,7 @@ Specialization in desktop, mobile and browser-based applications.
 | Language | Level | Certification |
 |----------|-------|---------------|
 | Russian | Native | — |
-| English | B1 (Intermediate) | — |
+| English | A2 (Elementary) | — |
 | Korean | A2 (Elementary) | TOPIK 1 Level 2 |
 
 ---
